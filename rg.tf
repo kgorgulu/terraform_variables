@@ -4,7 +4,7 @@ resource "azurerm_resource_group" "vm_resourcegrup" {
   tags     = {
           "costcenter" = "102"
           "env"        = "dev"
-          "class"        = "terraform"
+          "createdBy"        = "terraform"
         }
 }
 
