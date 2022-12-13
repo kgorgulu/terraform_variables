@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "storage_resource_group" {
-  name     = "erol-us"
+  name     = "kerem_us"
   location = var.location
   tags     = {
           "costcenter" = "102"

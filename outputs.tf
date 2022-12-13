@@ -1,5 +1,5 @@
 output "storage_account_name" {
-  value = azurerm_storage_account.erol_storage_account.name
+  value = azurerm_storage_account.kerem_storage_account.name
   sensitive = true
- #description = "erol'un storage account ismi"
+ #description = "kerem'in storage account ismi"
 }

@@ -1,1 +1,1 @@
-storage_account_name="erolkstorageterraform"
+storage_account_name="keremstorageterraform"
